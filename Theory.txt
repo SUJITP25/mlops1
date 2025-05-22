@@ -1,0 +1,9 @@
+
+Lecture 04 : Data Versionining - DVC 
+
+pip instal dvc 
+mkdir s3
+dvc remote add -d myremote s3
+dvc add data/
+
+
